@@ -31,3 +31,28 @@
 </ul>
 </li>
  </ul>
+
+3. Proses manajerial <br>
+3.1 Tujuan dan prioritas manajemen <br>
+	<p>untuk tahapan awal membuat konsep dan system dari aplikasi yang akan kita buat,
+	dan untuk prioritas utama kita adalah pada pembuatan fungsi utama yang ada pada
+	aplikasi yang akan kita buat</p><br>
+3.2 Asumsim, keterkaitan, dan batasan <br>
+	<p>Sekarang sudah banyak jasa laundry tapi masih menggunakan cara manual dalam proses transaksi, pengantaran
+	barang laundry-nya, dan sebagainya, dengan melihat masalah atau sistem yang kurang begitu praktis, maka kita 
+	ingin membuatkan aplikasi untuk mempermudah para konsumen yang ingin menyewa jasa laundry<br>
+3.3 Manajemen resiko</p> <br>
+	<p>karena pembuatan aplikasi ini membutuhkan speak laptop/komputer yang cukup tinggi, untuk memgamtisipasinya
+	kita akan coba untuk meminjam lab komputer yang ada dijurusan untuk mengerjakan projek yang akan kita buat ini </p>
+	<br>
+3.4 Mekanisme monitoring dan kontroling<br>
+	<p>untuk monitoring dan kontroling kita menggunakan sistem kordinasi, baik dengan berkumpul ataupun
+	hanya melalui via chat saja, tapi Project manager akan tetap mengontrol agar sesuai dengan rencana
+	pembuatan aplikasi kita dari awal<br>
+3.5 Perancangan staf</p><br>
+	<p>project manager & = Kukuh Ajie Prayoga</p><br>
+	<p>programmer = Soni Dwi Susanto</p><br>
+	<p>analis & Db administrator = Muhamad Naufal Haris</p><br>
+
+
+	
