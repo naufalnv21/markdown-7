@@ -1,28 +1,33 @@
-Software Project Management Plan(SPMP)<br>
-1. Pendahuluan<br>
-	1.1 Gambaran proyek<br>
-	1.2 Dokumen-dokumen dalam proyek<br>
-	1.3 Evolusi SPMP<br>
-	1.4 Material acuan<br>
-	1.5 Definisi dan akronim (singkatan)<br>
-2. Organisasi Proyek<br>
-	2.1 Model proses<br>
-	2.2 Struktur Organisasi<br>
-	2.3 Batasan dan antarmuka organisasi<br>
-	2.4 Lingkup tanggung jawab<br>
-3. Proses Manajerial <br>
-	3.1 Tujuan dan prioritas manajemen<br>
-	3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan<br>
-	3.3 Manajemen resiko<br>
-	3.4 Mekanisme monitoring dan kontroling<br>
-	3.5 Perancanaan staf<br>
-4. Proses teknis <br>
-	4.1 Metoda, tool, dan teknik <br>
-	4.2 Dokumentasi perangkat lunak <br>
-	4.3 Fungsi-fungsi pendukung proyek<br>
-5. Paket pekerjaan, jadwal, dan budget<br>
-	5.1 Paket pekerjaan<br>
-	5.2 Ketergantungan/keterkaitan<br>
-	5.3 kebutuhan-kebutuhan sumber daya<br>
-	5.4 Alokasi budget dan sumber daya<br>
-	5.5 Jadwal<br>
+<p>Software Project Management Plan(SPMP)</p>
+<ul>
+<li>Pendahuluan
+<ul>
+	<li>Gambaran proyek</li>
+		<p>Jelaskan gambaran proyeksecara umum: apa,bagaimana,siapa yang mengerjakan, dan untuk siapa </p>
+	<li>Dokumen-dokumen dalam proyek</li>
+		<p>Tuliskan dokumen-dokumen yang digunakan dalam pengerjaan proyek1qs</p>
+	<li>Evolusi SPMP</li>
+		<p>Tuliskan dan jelaskan yang meliputi: bagaimana dan oleh siapa dokumen ini dirawat.</p>
+		<p>Apakah ada personal yang ditunjuk sebagai penanggung jawab atau sendiri-sendiri</p>
+	<li>Material acuan</li>
+		<p>Jelaskan standar dokumen apa yang digunakan (misal: IEE, atau yang lainnya)</p>
+	<li>Definisi dan akronim (singkatan)</li>
+		<p>Tuliskan definisi-definisi dan akronim-akronim yang digunakan pada dokumen</p>
+</ul>
+</ul>
+</li>
+
+<ul>
+<li>Organisasi Proyek
+<ul>
+	<li>Model proses</li>
+	<p>Tuliskan dan jelaskna model proses yang digunakan dalam pengerjaan proyek PL ini </p>
+	<li>Struktur Organisasi</li>
+	<p>Tuliskan dan susun susnan struktur organisasi proyek yang terlibat</p>
+	<li>Batasan dan antarmuka organisasi</li>
+	<p>Tuliskan dan jelaskan batasan-batasan dan antarmuka/hirarki instruktsi organisasi</p>
+	<li>Lingkup tanggung jawab</li>
+	<p>Rinci dan jelaskna lingkup tanggungjawab dari tiap-tiap personil yang terlibat seperti Ketua tim, ketua CM, ketua QA, ketua manajemen analisis kebutuhan, ketua desain, ketua implementasi, dll</p>
+</ul>
+</li>
+ </ul>
