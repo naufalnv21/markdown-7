@@ -1,21 +1,38 @@
-1.	Pendahuluan<br>
-<p>1.1	Tujuan</p><br>
-<p>Dokumen Software Requirement Specification (SRS) merupakan dokumen spesifikasi perangkat lunak untuk membangun ”Aplikasi Laundry Client Berbasis Mobile”. Dokumen ini dibangun untuk memudahkan dalam melakukan proses pembagian kelompok secara acak dan merata yang dilakukan oleh pengguna. Sehingga dokumen ini dapat dijadikan acuan teknis untuk membangun perangkat lunak ”Aplikasi Laundry Client Berbasis Mobile”.</p><br>
-<p>1.2	Lingkup Masalah</p><br>
-<p>Aplikasi Laundry Client Berbasis Mobile yang kami buat untuk mempermudah pelanggan untuk melakukan sebuah transaksi, agar pelanggan tidak usah datang ketempat laundry jadi hanya di jemput oleh jasa kurir yang disediakan oleh laundry tersebut</p><br>
-<p>1.3	Definisi, akronim, singkatan</p><br>
-<p>Akronim dan Singkatan :</p><br>
-<p>•	SRS : Software Requirement Specification</p><br>
-<p>Definisi :</p><br>
-<p>•	Software Requirement Specification adalah perangkat lunak yang akan dibuat dan sebagai penyembatani komunikasih pembuat dengan pengguna.</p><br>
-<p>•	use case adalah situasi dimana sistem anda digunakan untuk memenuhi satu atau lebih kebutuhan pemakaian anda.</p><br>
-<p>1.4	Referensi</p><br>
-<p>Referensi yang digunakan dalam pengembangan perangkat lunak ini adalah:</p><br>
-<p>•	Praktikum Analisis dan Desain Sistem Informasi, 2009</p><br>
-<p>•	Sistem Informasi Sekolah Terpadu, 2009</p><br>
-<p>1.5	Overview</p><br>
-<p>Dokumen SRS ini dibagi menjadi tiga bagian utama, yaitu :</p>
-<p>bagian pertama berisi penjelasan tentang dokumen SRS yang mencakup tujuan pembuatan dokumen ini, lingkup masalah yang diselesaikan oleh perangkat lunak yang dikembangkan, definisi, referensi dan deskripsi umum. Bagian kedua berisi penjelasan secara umum mengenai Aplikasi Random Grup yang akan dibangun, meliputi fungsi dari perangkat lunak, karakteristik pengguna, batasan dan asumsi yang diambil dala pembuatan perangkat lunak. Bagian ketiga berisi uraian kebutuhan perangkat lunak secara lebih rinci.</p>
+<b>
+	<h1>
+		<i>Software Rewuired Specification (SRS)</i>
+	</h1>
+
+<ol>
+<li>1.	Pendahuluan</li>
+<ol>
+1.1	Tujuan<br>
+<i>Dokumen Software Requirement Specification (SRS) merupakan dokumen spesifikasi perangkat lunak untuk membangun ”Aplikasi Laundry Client Berbasis Mobile”. Dokumen ini dibangun untuk memudahkan dalam melakukan proses pembagian kelompok secara acak dan merata yang dilakukan oleh pengguna. Sehingga dokumen ini dapat dijadikan acuan teknis untuk membangun perangkat lunak ”Aplikasi Laundry Client Berbasis Mobile”.</i><br>
+</ol>
+<ol>
+1.2	Lingkup Masalah<br>
+<i>Aplikasi Laundry Client Berbasis Mobile yang kami buat untuk mempermudah pelanggan untuk melakukan sebuah transaksi, agar pelanggan tidak usah datang ketempat laundry jadi hanya di jemput oleh jasa kurir yang disediakan oleh laundry tersebut</i><br>
+</ol>
+<ol>
+1.3	Definisi, akronim, singkatan<<br>
+<i>Akronim dan Singkatan :</i><br>
+<i>•	SRS : Software Requirement Specification</i><br>
+<i>Definisi :</i><br>
+<i>•	Software Requirement Specification adalah perangkat lunak yang akan dibuat dan sebagai penyembatani komunikasih pembuat dengan pengguna.</i><br>
+<i>•	use case adalah situasi dimana sistem anda digunakan untuk memenuhi satu atau lebih kebutuhan pemakaian anda.</i><br>
+</ol>
+<ol>
+1.4	Referensi<br>
+<i>Referensi yang digunakan dalam pengembangan perangkat lunak ini adalah:</i><br>
+<i>•	Praktikum Analisis dan Desain Sistem Informasi, 2009</i><br>
+<i>•	Sistem Informasi Sekolah Terpadu, 2009</i><br>
+</ol>
+<ol>
+1.5	Overview<br>
+<i>Dokumen SRS ini dibagi menjadi tiga bagian utama, yaitu :</i>
+<i>bagian pertama berisi penjelasan tentang dokumen SRS yang mencakup tujuan pembuatan dokumen ini, lingkup masalah yang diselesaikan oleh perangkat lunak yang dikembangkan, definisi, referensi dan deskripsi umum. Bagian kedua berisi penjelasan secara umum mengenai Aplikasi Random Grup yang akan dibangun, meliputi fungsi dari perangkat lunak, karakteristik pengguna, batasan dan asumsi yang diambil dala pembuatan perangkat lunak. Bagian ketiga berisi uraian kebutuhan perangkat lunak secara lebih rinci.</i>
+</ol>
+</ol>
 <p> 2. Gambaran Umum </p>
 <ol> 2.1 Perspektif produk </ol>
 <li>Pendefinisian Aplikasi Laundry ini yaitu untuk membantu user dalam menggunakan jasa laundry.Pembuatan Aplikasi Laundry bertujuan untuk membantu pengguna jika ingin menggunakan jasa laundry</li>
@@ -54,3 +71,13 @@
 <ol> 2.5 Asumsi-asumsi dan ketergantungan / keterkaitan </ol>
 <p> Maksimal penginputan data atau memasukan nama user pada aplikasi adalah semaksimal mungkin. </p>
 <ol> Kebutuhah-kebutuhan penyeimbang </ol>
+<ol>
+3. Kebutuhan lain yang spesifik<br>
+		<i>Kebutuhan fungsional adalah kebutuhan yang harus dipenuhi agar suatu sistem dapat berjalan atau dapat dikatakan 
+	kebutuhan tambahan yang memiliki input, proses, dan output. Kebutuhan fungsional yang harus ada dalam sistem yang akan 
+	dikembangkan ini adalah sebagai berikut : </i>
+	<i>1. Sistem harus dapat mempermudah pengguna / user dalam menggunakan aplikasi ini.</i><br>
+</ol>
+<ol>
+4. Informasi pendukung <br> 
+	<i>Kebanyakan informasi pendukung yang kami dapat dari artikel, makalah, dan tugas akhir yang diperoleh dari internet<i>
