@@ -1,4 +1,8 @@
-<p>Software Project Management Plan(SPMP)</p>
+<b>
+	<h1>
+<i>Software Project Management Plan(SPMP)</i>
+</h1>
+</b>
 Pendahuluan<br>
 	<p>Gambaran proyek</p><br>
 		<p>Jelaskan gambaran proyeksecara umum: apa,bagaimana,siapa yang mengerjakan, dan untuk siapa </p><br>
