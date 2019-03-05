@@ -34,7 +34,7 @@
 </ol>
 </ol>
 <ol>
-<li>Gambaran Umum </li><br>
+2. Gambaran Umum <br>
 </ol>
 <ol>
 <i> 2.1 Perspektif produk </i><br>
