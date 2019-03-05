@@ -2,7 +2,7 @@
 	<h1>
 		<i>Software Rewuired Specification (SRS)</i>
 	</h1>
-
+</b>
 <ol>
 <li>1.	Pendahuluan</li>
 <ol>
@@ -16,7 +16,7 @@
 <ol>
 1.3	Definisi, akronim, singkatan<<br>
 <i>Akronim dan Singkatan :</i><br>
-<i>•	SRS : Software Requirement Specification</i><br>
+<i><i>•	SRS : Software Requirement Specification<i></i><br>
 <i>Definisi :</i><br>
 <i>•	Software Requirement Specification adalah perangkat lunak yang akan dibuat dan sebagai penyembatani komunikasih pembuat dengan pengguna.</i><br>
 <i>•	use case adalah situasi dimana sistem anda digunakan untuk memenuhi satu atau lebih kebutuhan pemakaian anda.</i><br>
@@ -33,10 +33,10 @@
 <i>bagian pertama berisi penjelasan tentang dokumen SRS yang mencakup tujuan pembuatan dokumen ini, lingkup masalah yang diselesaikan oleh perangkat lunak yang dikembangkan, definisi, referensi dan deskripsi umum. Bagian kedua berisi penjelasan secara umum mengenai Aplikasi Random Grup yang akan dibangun, meliputi fungsi dari perangkat lunak, karakteristik pengguna, batasan dan asumsi yang diambil dala pembuatan perangkat lunak. Bagian ketiga berisi uraian kebutuhan perangkat lunak secara lebih rinci.</i>
 </ol>
 </ol>
-<i> 2. Gambaran Umum </i>>
-<ol> 2.1 Perspektif produk </ol>
-<li>Pendefinisian Aplikasi Laundry ini yaitu untuk membantu user dalam menggunakan jasa laundry.Pembuatan Aplikasi Laundry bertujuan untuk membantu pengguna jika ingin menggunakan jasa laundry</li>
-<ol> 2.1.1 Antarmuka sistem </ol>
+2. Gambaran Umum <br>
+<i> 2.1 Perspektif produk </i><br>
+<i><i>Pendefinisian Aplikasi Laundry ini yaitu untuk membantu user dalam menggunakan jasa laundry.Pembuatan Aplikasi Laundry bertujuan untuk membantu pengguna jika ingin menggunakan jasa laundry</i></i><br>
+<i><i><i> 2.1.1 Antarmuka sistem </i><i><i><br>
 <li> Dalam penggunaan, pengguna berinteraksi langsung dengan aplikasi melalui hp/mobile </li>
 <ol> 2.1.2 Antarmuka pengguna</ol>
 <li> Perangkat lunak untuk aplikasi ini dibuat dengan menggunakan aplikasi android studio.Dimana tampilan didesain dengan menggunakan templete yang ada. Perangkat lunak untuk layanan dalam aplikasi ini dilengkapi dengan menu untuk pengaksesan berbagai fungsi yang disediakan. </li>
