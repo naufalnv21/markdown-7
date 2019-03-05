@@ -33,7 +33,10 @@
 <i>bagian pertama berisi penjelasan tentang dokumen SRS yang mencakup tujuan pembuatan dokumen ini, lingkup masalah yang diselesaikan oleh perangkat lunak yang dikembangkan, definisi, referensi dan deskripsi umum. Bagian kedua berisi penjelasan secara umum mengenai Aplikasi Random Grup yang akan dibangun, meliputi fungsi dari perangkat lunak, karakteristik pengguna, batasan dan asumsi yang diambil dala pembuatan perangkat lunak. Bagian ketiga berisi uraian kebutuhan perangkat lunak secara lebih rinci.</i>
 </ol>
 </ol>
-2. Gambaran Umum <br>
+<ol>
+<li>Gambaran Umum </li><br>
+</ol>
+<ol>
 <i> 2.1 Perspektif produk </i><br>
 <i>Pendefinisian Aplikasi Laundry ini yaitu untuk membantu user dalam menggunakan jasa laundry.Pembuatan Aplikasi Laundry bertujuan untuk membantu pengguna jika ingin menggunakan jasa laundry</i><br>
 <i> 2.1.1 Antarmuka sistem <br>
@@ -59,16 +62,30 @@
 <i> 2.1.8 Fungsi-fungsi produk </i><br>
 <i> Fungsi dari Aplikasi Laundry berdasarkan pengguna sisten ini adalah sebagai berikut : </i><br>
 <i><li> Membantu user dalam menggunakan jasa laundry secara mudah dan jelas </li></i><br>
-<li> Program ini bisa menampung user yang ingin menggunakan jasa laundry </li>
+<i><li> Program ini bisa menampung user yang ingin menggunakan jasa laundry </li></i>
+</ol>
+<ol>
+<i>2.2 Fungsi – fungsi produk</i><br>
+<i>Fungsi dari Aplikasi Laundry berdasarkan pengguna sistem ini adalah sebagai berikut :</i><br>
+<i>a.	Membantu pelanggan dalam memesan laundry dengan mudah dan cepat.</i><br>
 <i> 2.3 Karakteristik pengguna </i>
 <i> Karakteristik pengguna dari perangkat lunak ini adalah pengguna langsung berinteraksi dengan sistem tanpa harus dihubungkan dengan hak akses dan level autentifikasi. </i><br>
 <i> Batasan-batasan </i><br>
 <i> 1. Perangkat lunak hanya dijalankan di PC & Mobile </i><br>
 <i> 2. Waktu pengembangan perangkat lunak yang singkat membuat adanya kemungkinan tidak semua fugsi yang ada dapat dilaksanakan </i><br>
 <i> 3. Pengembangan perangkat lunak tidak akan merubah file-file ataupun database yang ada. </i><br>
+</ol>
+<ol>
+<i>2.4 Batasan – batasan</i><br>
+<i>1.	Perangkat lunak hanya dijalankan di Windows (7, 8, 10 ).</i><br>
+<i>2.	Waktu pengembangan perangkat lunak yang singkat membuat adanya kemungkinan tidak semua fungsi yang ada dapat dilaksanakan.</i><br>
+<i>3.	Pengembangan perangkat lunak tidak akan merubah file-file ataupun database yang ada.</i><br>
+</ol>
+<ol>
 <i> 2.5 Asumsi-asumsi dan ketergantungan / keterkaitan </i><br>
 <i> Maksimal penginputan data atau memasukan nama user pada aplikasi adalah semaksimal mungkin. </i><br>
 <i> Kebutuhah-kebutuhan penyeimbang </i><br>
+</ol>
 <ol>
 3. Kebutuhan lain yang spesifik<br>
 		<i>Kebutuhan fungsional adalah kebutuhan yang harus dipenuhi agar suatu sistem dapat berjalan atau dapat dikatakan 
@@ -79,3 +96,4 @@
 <ol>
 4. Informasi pendukung <br> 
 	<i>Kebanyakan informasi pendukung yang kami dapat dari artikel, makalah, dan tugas akhir yang diperoleh dari internet</i><br>
+</ol>
